@@ -1,0 +1,16 @@
+.full-width {
+  width: 100%;
+}
+
+.colours {
+  background-color: #faf0dc;
+}
+.button-color1 {
+  background-color: #faf0dc;
+  /* background-image: url("assets/bank.jpg"); */
+}
+.button-color1:hover {
+  background-color: green;
+  /* color: ; */
+  /* background-image: url("assets/bank.jpg"); */
+}

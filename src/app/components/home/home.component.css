@@ -1,0 +1,19 @@
+.button-color1 {
+  background-color: #faf0dc;
+  /* background-image: url("assets/bank.jpg"); */
+}
+.button-color1:hover {
+  background-color: green;
+  /* color: ; */
+  /* background-image: url("assets/bank.jpg"); */
+}
+.bootstrap-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.heads {
+  padding: 100px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 56px;
+}

@@ -1,0 +1,17 @@
+.primary1 {
+  background-color: #0b4141;
+  left: 40%;
+  color: #ffffff;
+}
+.primary1:hover {
+  background-color: greenyellow;
+  color: #000000;
+}
+.check-balance-card {
+  position: absolute;
+  top: 30%;
+  width: 70%;
+  left: 15%;
+  /* background-color: #ff8b3d; */
+  background-color: #faf0dc;
+}

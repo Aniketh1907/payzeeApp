@@ -1,0 +1,28 @@
+.balance-card {
+  position: absolute;
+  width: 40%;
+  left: 6%;
+  background-color: #faf0dc;
+}
+.balance-card2 {
+  position: absolute;
+  width: 40%;
+  right: 6%;
+  background-color: #faf0dc;
+}
+.balance-card3 {
+  position: absolute;
+  width: 40%;
+  top: 60%;
+  left: 30%;
+  background-color: #faf0dc;
+}
+.primary1 {
+  background-color: #0b4141;
+  left: 40%;
+  color: #ffffff;
+}
+.primary1:hover {
+  background-color: greenyellow;
+  color: #000000;
+}

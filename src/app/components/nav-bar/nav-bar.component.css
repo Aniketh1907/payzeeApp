@@ -1,0 +1,16 @@
+.colour {
+  /* background-color: #f8e9a1; */
+  /* background-color: #f3d250; */
+  /* background-color: #303c6c; */
+  /* background-color: #f49763; */
+  /* background-color: #8e8268; */
+  /* background-color: #b2beb5; */
+  background-color: #373a36;
+  background-color: #0b4141;
+  color: whitesmoke;
+  /* color: #ff8b3d; */
+  /* color: #232323; */
+}
+.example-spacer {
+  flex: 1 1 auto;
+}

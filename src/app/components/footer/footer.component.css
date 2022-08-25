@@ -1,0 +1,9 @@
+.footer-class {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background-color: #0b4141;
+  color: whitesmoke;
+}

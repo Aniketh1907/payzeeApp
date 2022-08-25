@@ -1,0 +1,24 @@
+.check-balance-card {
+  position: absolute;
+  width: 70%;
+  left: 15%;
+  top: 18%;
+  background-color: #ff8b3d;
+  background-color: #faf0dc;
+}
+#colour {
+  background-color: #0b4141;
+  color: whitesmoke;
+}
+#colour:hover {
+  background-color: green;
+  color: whitesmoke;
+}
+#colour1 {
+  background-color: #0b4141;
+  color: whitesmoke;
+}
+#colour1:hover {
+  background-color: green;
+  color: whitesmoke;
+}
